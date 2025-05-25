@@ -1,0 +1,6 @@
+@CS_CarteiraRest_HostAddress = http://localhost:5287
+
+GET {{CS_CarteiraRest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
